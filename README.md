@@ -24,3 +24,6 @@ Assemble and hexdump the target program.
 
 **make interactive**
 Load and run a slow but interactive monitor program.
+
+[Further information and motivation is available on my blog.](http://www.moop.org.uk/index.php/2016/11/01/retrochallenge-201610-tools/)
+
